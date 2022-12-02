@@ -1,0 +1,29 @@
+/*.App {
+   background-color: blue; 
+  color: white;
+  font-family: sans-serif;
+  background-image: url("images/wallpaper.gif");
+  height: 100%;
+
+ Center and scale the image nicely 
+  background-position: center;
+  background-repeat: no-repeat;
+ background-image: url(https://giphy.com/gifs/pink-glow-turbulence-eJoZAwRN9OI5QjthIE); 
+}
+
+.error{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.dropdown-react{
+  color: black;
+}*/
+
+/* .App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+} */
